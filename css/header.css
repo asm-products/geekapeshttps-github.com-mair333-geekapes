@@ -1,0 +1,42 @@
+#wrap_header{
+	
+	background-color: #4d91b6;
+	height: 40px;
+	padding: 5px;
+	text-align: Left;
+	font-style: bold;
+	font-size: 30px;
+	color: white;
+	
+	
+}
+.menu{
+	
+	font: 1em Georgia;
+	padding: 0;
+	margin: 0px auto;
+	background-color: #4d91b6;
+	list-style:none;
+	border-bottom: 3px solid black;
+	height: 35px;
+	border-top: 1px solid #4d91b6;
+	text-align: center;
+}
+
+.menu li{
+	display: inline-block;
+	padding: 5px 10px 4px 10px;
+}
+
+.menu li a{
+	
+	text-decoration: none;
+	color: #fff;
+	line-height: 1.6em;
+}
+
+.menu li a:hover{
+
+	color: red;
+
+}
