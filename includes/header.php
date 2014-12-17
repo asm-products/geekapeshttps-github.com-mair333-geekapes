@@ -16,7 +16,7 @@ $menu_include= "/var/www/includes/menu.php";
 
 <body>
 	
-	<header id="wrap_header">Lucimferre</header>
+	<header id="wrap_header">Geekapes</header>
 	
 	
 	

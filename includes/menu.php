@@ -4,7 +4,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Working Title</title>
+	<title>Geekapes</title>
 	
 	<link href="http://geekapes.com/css/main.css" rel="stylesheet" type="text/css">
 	<link href="http://geekapes.com/css/menu.css" rel="stylesheet" type="text/css">

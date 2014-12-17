@@ -53,7 +53,7 @@
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta charset="UTF-8">
-	<title>Lucimferre</title>
+	<title>Geekapes</title>
 	
 		<link href="http://geekapes.com/css/main.css" rel="stylesheet" type="text/css"/>
 		<link href="http://geekapes.com/css/index.css" rel="stylesheet" type="text/css"/>

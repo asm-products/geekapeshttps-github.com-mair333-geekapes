@@ -17,7 +17,7 @@
 
 <html>
 <head>
-	<title>Lucimferre</title>
+	<title>Geekapes</title>
 	<meta charset="UTF-8">
 	<link href="http://geekapes.com/css/main.css" rel="stylesheet" type="text/css">
 	<link href="http://geekapes.com/css/register.css" rel="stylesheet" type="text/css">
